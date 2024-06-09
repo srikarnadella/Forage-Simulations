@@ -37,7 +37,7 @@ Here are the descriptions for each of the programs:
  * Completed a Test of Design and Operating Effectiveness documentation
  * Created a one-slide summary to present findings
 
- ### Mastercard Cybersecurity virtual experience program on Forage - June 2024
+### Mastercard Cybersecurity virtual experience program on Forage - June 2024
  * Completed a job simulation where I served as an analyst on Mastercard’s
    Security Awareness Team 
  * Helped identify and report security threats such as phishing 
